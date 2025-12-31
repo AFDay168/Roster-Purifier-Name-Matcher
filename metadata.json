@@ -1,0 +1,5 @@
+{
+  "name": "Roster Purifier & Name Matcher",
+  "description": "A sophisticated data cleaning tool for rosters that automatically identifies majority months, truncates dimensions, and aligns staff names with a master list, featuring interactive human verification.",
+  "requestFramePermissions": []
+}
